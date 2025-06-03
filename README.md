@@ -11,4 +11,7 @@ and then open a separate terminal to start the pseudo API server that holds the 
 ```
 npm start server
 ```
-Once that server is running, you can run this app with the command '''npm run start'''
+Once that server is running, you can run this app with the command 
+```
+npm run start
+```
