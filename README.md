@@ -4,7 +4,11 @@ This app is an application created with React that quizzes users on their knowle
 
 In order to use the app, you can fork it, install the correct dependencies with 
 
-bash ``` 
+``` 
 npm i
 ```
-and then open a separate terminal to start the pseudo API server that holds the questions by using the terminal command '''npm start server'''. Once that server is running, you can run this app with the command '''npm run start'''
+and then open a separate terminal to start the pseudo API server that holds the questions by using the terminal command 
+```
+npm start server
+```
+Once that server is running, you can run this app with the command '''npm run start'''
